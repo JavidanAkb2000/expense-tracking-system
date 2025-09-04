@@ -11,6 +11,12 @@ Transform the way you manage your finances with this elegant, end-to-end expense
 • Beautiful analytics visualization with charts and graphs  
 • Intuitive tabular data presentation for easy expense management  
 
+Note:
+
+💻 UI of Expense Tracking System
+
+✨ I started by building a simple, manual UI myself. Later, I leveled it up to a cleaner, more modern look with the help of AI tools like Claude and GPT. I’m just taking advantage of the amazing innovations 2025 has to offer! 🚀
+
 ⚡ **Backend Excellence**  
 • **FastAPI** - Lightning-fast, modern API framework ensuring smooth performance  
 • RESTful architecture for seamless data flow  
